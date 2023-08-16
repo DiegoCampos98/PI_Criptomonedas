@@ -42,7 +42,7 @@ Se explican detalladamente en el EDA.ipynb
 
 He extraeido y normalizado la información de la API utilizando un script en Python. Mediante el uso de la biblioteca "Requests", he realizado solicitudes para obtener los datos necesarios. Luego, he aplicado un proceso de normalización para asegurar que los datos estén en un formato coherente y listos para el análisis.
 
-Posteriormente, he llevado a cabo un análisis exploratorio de los datos utilizando la biblioteca "Matplotlib". Esta herramienta me ha permitido crear visualizaciones gráficas que representan de manera efectiva las tendencias y patrones presentes en el mercado de criptomonedas. Estas visualizaciones son esenciales para comprender mejor cómo se comportan las diferentes criptomonedas a lo largo del tiempo.
+Posteriormente, he llevado a cabo un análisis exploratorio de los datos utilizando la biblioteca "Matplotlib". Esta herramienta me ha permitido crear visualizaciones gráficas que representan de manera efectiva las tendencias y patrones presentes en el mercado de criptomonedas. Estas visualizaciones son esenciales para comprender mejor cómo se comportan las diferentes criptomonedas a lo largo del tiempo.Realizando una conclusión al finalizar el EDA. 
 
 ### **Informe**
 La herramienta que empleé para visualizar los datos de manera interactiva fue Power BI. Para lograr esto, utilicé scripts de Python para obtener datos y actualizar el informe de manera constante y sencilla. Cargué el informe en Power BI Web, estableciendo un gateway que se conectara con mi entorno de Python. Esta configuración me permitió programar actualizaciones automáticas y mantener el informe siempre actualizado con los datos más recientes.

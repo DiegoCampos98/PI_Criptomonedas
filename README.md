@@ -7,7 +7,6 @@ En los últimos años, las criptomonedas han experimentado un crecimiento expone
 
 A medida que el interés en las criptomonedas aumenta, inversores y entusiastas buscan entender su comportamiento. Sin embargo, su volatilidad y complejidad presentan desafíos para tomar decisiones informadas.
 
-
 ### **Rol a desarrollar**
 
 El análisis de datos es esencial para obtener información valiosa en este campo. Datos actualizados sobre criptomonedas, como precios, volúmenes y datos históricos, son fundamentales para comprender estos mercados emergentes.
@@ -15,7 +14,6 @@ El análisis de datos es esencial para obtener información valiosa en este camp
 En mi rol como Analista de Datos en una empresa de servicios financieros, he sido encargado de realizar un análisis exhaustivo del mercado de criptomonedas utilizando datos de la API CoinGecko. El objetivo de este análisis es comprender mejor el mercado de criptomonedas y presentar hallazgos y recomendaciones en un informe detallado.
 
 Dada la gran cantidad de monedas disponibles en la fuente de información proporcionada (aproximadamente 4000), he decidido acotar mi trabajo a analizar al menos 10 criptomonedas. Mi elección se basó en una combinación de factores como capitalización de mercado, crecimiento reciente y casos innovadores de tecnología o uso.
-
 
 ### **Investigacion**
 
@@ -38,4 +36,15 @@ Los Kpis utilizados son:
 - Índice de Fuerza Relativa (RSI)
 - Volumen
 
-Se explican detalladamente en el EDA
+Se explican detalladamente en el EDA.ipynb
+
+### **Analisis exploratorio de datos (EDA)**
+
+He extraeido y normalizado la información de la API utilizando un script en Python. Mediante el uso de la biblioteca "Requests", he realizado solicitudes para obtener los datos necesarios. Luego, he aplicado un proceso de normalización para asegurar que los datos estén en un formato coherente y listos para el análisis.
+
+Posteriormente, he llevado a cabo un análisis exploratorio de los datos utilizando la biblioteca "Matplotlib". Esta herramienta me ha permitido crear visualizaciones gráficas que representan de manera efectiva las tendencias y patrones presentes en el mercado de criptomonedas. Estas visualizaciones son esenciales para comprender mejor cómo se comportan las diferentes criptomonedas a lo largo del tiempo.
+
+### **Informe**
+La herramienta que empleé para visualizar los datos de manera interactiva fue Power BI. Para lograr esto, utilicé scripts de Python para obtener datos y actualizar el informe de manera constante y sencilla. Cargué el informe en Power BI Web, estableciendo un gateway que se conectara con mi entorno de Python. Esta configuración me permitió programar actualizaciones automáticas y mantener el informe siempre actualizado con los datos más recientes.
+
+

@@ -26,3 +26,16 @@ La tecnología subyacente que hace posible el funcionamiento de las criptomoneda
 Una de las características más atractivas de las criptomonedas es su capacidad para permitir transacciones directas y seguras entre dos partes sin intermediarios, como bancos u otras instituciones financieras. Esto reduce los costos y los tiempos de procesamiento, lo que ha impulsado su adopción en diferentes industrias y casos de uso, como las finanzas descentralizadas (DeFi), la tokenización de activos, la gestión de identidad y más.
 
 El auge de las criptomonedas se debe en gran medida a su potencial para revolucionar los sistemas financieros tradicionales, ofrecer mayor inclusión financiera a nivel mundial y brindar nuevas oportunidades para la innovación tecnológica. Sin embargo, también es importante tener en cuenta que el mercado de criptomonedas es altamente volátil y presenta riesgos, por lo que se debe llevar a cabo una investigación cuidadosa antes de invertir o participar en actividades relacionadas con criptomonedas.
+
+### **Eleccion de Criptomonedas**
+
+En cuanto a la selección de las 10 criptomonedas con mayor capitalización, esto implica elegir aquellas que tienen el mayor valor total en el mercado en un momento dado. La capitalización de mercado se calcula multiplicando el precio de una criptomoneda por la cantidad total en circulación. Esta elección se basa en la percepción de que estas monedas son las más establecidas y ampliamente adoptadas en el mercado, lo que puede aumentar su liquidez y reducir en cierta medida el riesgo asociado con las inversiones en criptomonedas.
+
+### **Kpis**
+
+Los Kpis utilizados son:
+- Análisis de Medias Móviles y Cruces
+- Índice de Fuerza Relativa (RSI)
+- Volumen
+
+Se explican detalladamente en el EDA

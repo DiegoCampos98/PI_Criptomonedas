@@ -28,9 +28,7 @@ Las criptomonedas son un tipo de moneda digital que opera de manera descentraliz
 
 La tecnología subyacente que hace posible el funcionamiento de las criptomonedas se llama blockchain. Un blockchain es esencialmente un registro digital público, inmutable y seguro de todas las transacciones que se realizan con una criptomoneda en particular. Cada transacción se agrega en forma de "bloque" a una cadena continua de bloques anteriores, lo que crea una trazabilidad completa y transparente de todas las transacciones pasadas. Esto garantiza la seguridad y la autenticidad de las transacciones, ya que cualquier intento de alterar un bloque anterior sería evidente y requeriría la modificación de todos los bloques siguientes, lo que resulta prácticamente imposible debido a la naturaleza de la criptografía utilizada.
 
-Una de las características más atractivas de las criptomonedas es su capacidad para permitir transacciones directas y seguras entre dos partes sin intermediarios, como bancos u otras instituciones financieras. Esto reduce los costos y los tiempos de procesamiento, lo que ha impulsado su adopción en diferentes industrias y casos de uso, como las finanzas descentralizadas (DeFi), la tokenización de activos, la gestión de identidad y más.
-
-El auge de las criptomonedas se debe en gran medida a su potencial para revolucionar los sistemas financieros tradicionales, ofrecer mayor inclusión financiera a nivel mundial y brindar nuevas oportunidades para la innovación tecnológica. Sin embargo, también es importante tener en cuenta que el mercado de criptomonedas es altamente volátil y presenta riesgos, por lo que se debe llevar a cabo una investigación cuidadosa antes de invertir o participar en actividades relacionadas con criptomonedas.
+Una de las características más atractivas de las criptomonedas es su capacidad para permitir transacciones directas y seguras entre dos partes sin intermediarios, como bancos u otras instituciones financieras. Esto reduce los costos y los tiempos de procesamiento, lo que ha impulsado su adopción en diferentes industrias y casos de uso, como las finanzas descentralizadas (DeFi), la tokenización de activos, la gestión de identidad y más.El auge de las criptomonedas se debe en gran medida a su potencial para revolucionar los sistemas financieros tradicionales, ofrecer mayor inclusión financiera a nivel mundial y brindar nuevas oportunidades para la innovación tecnológica. Sin embargo, también es importante tener en cuenta que el mercado de criptomonedas es altamente volátil y presenta riesgos, por lo que se debe llevar a cabo una investigación cuidadosa antes de invertir o participar en actividades relacionadas con criptomonedas.
 
 
 ### **Eleccion de Criptomonedas**
@@ -58,10 +56,17 @@ Posteriormente, he llevado a cabo un análisis exploratorio de los datos utiliza
 ### **Informe**
 
 La herramienta que empleé para visualizar los datos de manera interactiva fue Power BI. Para lograr esto, utilicé scripts de Python para obtener datos y actualizar el informe de manera constante y sencilla. Cargué el informe en Power BI Web, estableciendo un gateway que se conectara con mi entorno de Python. Esta configuración me permitió programar actualizaciones automáticas y mantener el informe siempre actualizado con los datos más recientes.
+<div style="display: flex; justify-content: center;">
+  <img src="image/Analisis general.jpeg" height=500 style="margin-right: 20px;">
+  <img src="image/Analisis tecnico.jpeg" height=500>
+</div>
 
 Como valor añadido, he implementado una integración entre una aplicación desarrollada en Power Apps y Power BI para facilitar un control eficiente de mis inversiones. Esta solución combina la practicidad de una aplicación personalizada con la capacidad analítica de Power BI para ofrecer una visión integral y visualmente atractiva de mi cartera de inversiones.
 
 En la aplicación de Power Apps, he diseñado una interfaz intuitiva que me permite registrar y almacenar información detallada sobre cada inversión. Puedo ingresar datos como el nombre de la inversión, el monto invertido, la fecha de compra y otros detalles relevantes. Esta aplicación me permite mantener un registro organizado y actualizado de mis activos financieros.
+<p align="center">
+<img src="image/Registro de inversiones.jpeg"  height=500>
+</p>
 
 
 ## Tecnologia usada
@@ -85,10 +90,6 @@ Quiero dejar claro que este proyecto tiene un propósito exclusivamente educativ
 Es importante subrayar que este proyecto no busca alentar ni recomendar a nadie que tome decisiones basadas en los datos presentados aquí. Toda la información y los resultados aquí expuestos son parte de un ejercicio de aprendizaje y exploración en el campo de la visualización de datos.
 
 Siempre se debe buscar asesoramiento y orientación adecuada de profesionales calificados antes de tomar decisiones importantes que involucren áreas como finanzas, salud, política y otros campos relevantes.
-
-<p align="center">
-<img src="image/Analisis general.jpeg"  height=500>
-</p>
 
 
 ## Contacto

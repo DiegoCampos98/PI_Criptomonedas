@@ -86,6 +86,10 @@ Es importante subrayar que este proyecto no busca alentar ni recomendar a nadie 
 
 Siempre se debe buscar asesoramiento y orientación adecuada de profesionales calificados antes de tomar decisiones importantes que involucren áreas como finanzas, salud, política y otros campos relevantes.
 
+<p align="center">
+<img src="image/Analisis general.jpeg"  height=500>
+</p>
+
 
 ## Contacto
 <a href="https://www.linkedin.com/in/adiegocampos/">
